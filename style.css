@@ -479,6 +479,7 @@ footer .foot .foot1 i:hover{
 
 @media(max-width: 768px){
     .section1{
+        padding-top: 50px;
         width: 100%;
         display: block;
         height: auto;
@@ -556,7 +557,7 @@ footer .foot .foot1 i:hover{
         height: auto;
     }
     .section4{
-        width: 100%;
+        width: 768px;
         height: 680px;
         position: relative;
         top: 500px;
@@ -598,7 +599,7 @@ footer .foot .foot1 i:hover{
         margin-top: 50px;
     }
     footer{
-        width: 100%;
+        width: 768px;
         height: 130vh;
         position: relative;
         top: 150em;
